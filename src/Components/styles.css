@@ -1,0 +1,28 @@
+body{
+  background-color: #EADCA6;
+  font-family: cursive;
+}
+
+hr{
+  border-top: 3px solid black;
+}
+.head{
+  position: relative;
+
+}
+.datesAdded{
+  margin-top: 10px;
+  width: 60%;
+  text-align: left;
+  font-weight: bold;
+  position: relative;
+
+}
+.text-price{
+margin-top: 202px;
+}
+.head{
+  font-family: 'Road Rage', cursive;
+  margin-left: 500px;
+  position: relative;
+}
